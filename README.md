@@ -1,2 +1,2 @@
 # website
-Expirementing with DevOps tools
+Expirementing with DevOps tools, AWS, and design
